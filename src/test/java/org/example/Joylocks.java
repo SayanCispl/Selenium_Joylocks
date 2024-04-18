@@ -79,15 +79,10 @@ public class Joylocks
         driver.findElement(By.xpath("//div[@id='noMedications']//figcaption[contains(text(),'No')]")).click();
         driver.findElement(By.xpath("//button[@id='modalNo']")).click();
 
-
-
-
-
-
-
-
         //driver.close();
 
+
+        // This push from Arka Mondal Side
     }
 
 
