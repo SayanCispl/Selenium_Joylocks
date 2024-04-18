@@ -86,7 +86,7 @@ public class Joylocks
 
 
 
-        //driver.close();
+        driver.close();
 
     }
 
